@@ -41,7 +41,8 @@ Steps to Install & Run the Project
 
 Prerequisites: Ensure you have the Java Development Kit (JDK) installed on your system. You can verify this by opening a terminal/command prompt and typing java -version.
 
-Clone the Repository: https://github.com/kartikeya25BAI11081/Library_management/edit/main/README.md Compile the Application: Compile the source code using the Java Compiler (javac):
+Clone the Repository:https://github.com/aarushi25bai11558-boop/library-management/edit/main/README.md
+Compile the Application: Compile the source code using the Java Compiler (javac):
 
 javac LibrarySystemGUI.java
 
@@ -85,4 +86,6 @@ Action: Close the application completely. Re-run the application using java Libr
 
 Expected Result: The tables automatically populate with all the data you added during the previous session, proving File I/O persistence is fully functional.
 
-Author Kartikeya Mishra 25BAI11081
+Author
+AARUSHI JAIN
+25BAI11558
