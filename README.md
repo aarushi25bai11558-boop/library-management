@@ -1,7 +1,7 @@
 # library-management
-Library Management System
+# LIBRARY MANAGEMENT SYSTEM
 
-Overview of the Project
+Overview of the Project :
 
 The Library Management System is a lightweight, dependency-free desktop application built purely in Java. It allows library administrators to manage book inventories and member registries through a clean Graphical User Interface (GUI).
 
